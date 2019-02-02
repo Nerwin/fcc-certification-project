@@ -1,0 +1,14 @@
+{
+  "name": "fcc-api-certif-project",
+  "version": "1.0.0",
+  "description": "Projet used for FreeCodeCamp API and Microservices Certifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "freecodecamp"
+  ],
+  "author": "Nerwin",
+  "license": "ISC"
+}
